@@ -1,0 +1,2 @@
+# Career-Foundry-SQL
+## This repository contains all SQL scripts and queries created during the Data Analytics Bootcamp at CareerFoundry. These projects cover a range of SQL topics, including data manipulation, querying, joins, aggregation, and optimization techniques. The exercises and real-world case studies here demonstrate the core skills developed throughout the program, with the goal of analyzing and deriving insights from structured data.
