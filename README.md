@@ -12,6 +12,19 @@
 
 ## Folder Breakdown
 ### Queries
-- All queries used from this exercises
+- All queries used for this exercise.
+
+### Outputs
+- All CSV files generated from the queries used in the analysis.
+
+### Old
+- Files created but not directly used in the final reports, such as initial drafts of the report.
+
+### Materials
+- Resources used for the report, including images and infographics.
+
+### Final Report
+- Everything submitted as part of the final report, including the presentation slides, the Excel file with all data findings, and the data dictionary.
+
 
 
