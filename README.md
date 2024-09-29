@@ -1,2 +1,17 @@
 # Career-Foundry-SQL
-## This repository contains all SQL scripts and queries created during the Data Analytics Bootcamp at CareerFoundry. These projects cover a range of SQL topics, including data manipulation, querying, joins, aggregation, and optimization techniques. The exercises and real-world case studies here demonstrate the core skills developed throughout the program, with the goal of analyzing and deriving insights from structured data.
+
+## Goals
+- Gain insights into Rockbuster movie rentals using SQL and its data.
+- Make data-driven recommendations based on those insights.
+
+## Tools
+- Tableau
+- DB Visualizer
+- Google Slides
+- Adobe Illustrator
+
+## Folder Breakdown
+### Queries
+- All queries used from this exercises
+
+
